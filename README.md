@@ -1,2 +1,6 @@
-# Encryption
+# Encryption Using NodeJs 
 Aes256 encryption as available online devglan tool in java.
+Required Liabraries is
+var aesjs = require('aes-js');
+var sha256 = require('js-sha256');
+
