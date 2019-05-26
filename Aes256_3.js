@@ -1,12 +1,10 @@
 var aesjs = require('aes-js');
 var sha256 = require('js-sha256');
 
-let key = 'abcd12345678901*';
-let iv = 'abcd12345678901*';
-let saltValue = "|Os3dcl82";
-let string_Val = "FEDSAAS8545|FED|EU01EU02000000000001|RELI00000MUM01|011256899";
-let consumer_Num = "52610029";
-let sort_Ammount = consumer_Num.split("").sort().join(""); 
+let key = '****************';
+let iv = ''****************';
+let saltValue = "********";
+let string_Val = "Pass yor value to encrypt";
 
 /*
 Author : Shubham Jaiswal
